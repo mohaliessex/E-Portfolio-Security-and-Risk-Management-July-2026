@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reflective piece
-kicker: Written reflection using Rolfe, Freshwater and Jasper's (2001) What? So what? Now what? model. 937 words, excluding headings and references.
+kicker: Written reflection using Rolfe, Freshwater and Jasper's (2001) What? So what? Now what? model. 977 words, excluding headings and references.
 permalink: /reflection/
 lo: [1, 2, 3, 4]
 prev: { title: "Skills matrix and PDP", url: "/development/skills-pdp/" }
@@ -16,7 +16,7 @@ This module asked me to treat risk as a process rather than a score. Across twel
 
 **The risk management process.** I came to the module as a practitioner whose daily vocabulary is CVSS scores and likelihood-impact matrices. The module unsettled that. Discussion 2 confronted me with Wunder *et al.*'s (2024) evidence that assessors score the same vulnerability differently, and Cox (2008) showed that ordinal matrices can rank risks incorrectly. My first instinct was to replace one instrument with a better one, so I proposed SSVC (Spring *et al.*, 2019). Kaona's reply, that SSVC's decision trees are only as reliable as their inputs, was uncomfortable because it was correct. I had made the mistake I was criticising: trusting the instrument rather than the knowledge behind it.
 
-Aven and Thekdi's (2025) argument that a risk judgement is conditional on the strength of knowledge became the thread connecting my work. It is why the group report called its ratings provisional, and why my executive summary reported 90% intervals, ran a correlation sensitivity test and concluded that the ranking was more robust than any single percentage. Building the simulation also showed me the limits of quantification. Hubbard (2020) is right that ranges beat ordinal scores, but most of my inputs were still calibrated judgements anchored to surveys skewed towards larger firms. Quantification made my uncertainty visible; it did not remove it.
+Aven and Thekdi's (2025) argument that a risk judgement is conditional on the strength of knowledge became the thread connecting my work. It is why the group report called its ratings provisional, and why my executive summary reported 90% intervals, ran a correlation sensitivity test and concluded that the ranking was more robust than any single percentage. Building the simulation also showed me the limits of quantification. Hubbard (2020) is right that ranges beat ordinal scores, but most of my inputs were still calibrated judgements anchored to surveys skewed towards larger firms. Quantification made my uncertainty visible; it did not remove it. My tutor's feedback found the same limit from another angle: survey statistics do not by themselves establish one firm's probabilities, and a one-minute database promotion does not prove a one-minute service recovery. Both were evidence stretched further than it reached.
 
 **Legal, ethical and professional issues.** Two moments reminded me that risk work carries responsibilities beyond technical accuracy. Discussion 1 showed that well-intentioned monitoring tools can harm the communities they serve when consent and context are ignored, a lesson that applies equally to workplace security monitoring. In Unit 11, the brief's reference to a "new GDPR directive" was wrong. Correcting it, and mapping obligations across UK, EU and Monegasque law, showed me that precision about the law is itself a control: a recommendation built on the wrong legal basis fails however good its analysis.
 

@@ -12,12 +12,12 @@ The discussion asked which characteristics of the Common Vulnerability Scoring S
 
 ## How my thinking developed
 
-I began by arguing that the Stakeholder-Specific Vulnerability Categorization (SSVC) should replace CVSS for prioritisation. In my responses to Asma and Kaona I agreed that CVSS still has value as a shared technical language. The most useful challenge came back to me: SSVC is not automatically more consistent, because a decision tree is only as reliable as its inputs. My summary therefore moved from "change the framework" to "govern the inputs", adding an asset inventory linked to business services, documented rationale, second review for critical systems and exploit-likelihood data such as EPSS.
+I began by arguing that the Stakeholder-Specific Vulnerability Categorization (SSVC) should replace CVSS for prioritisation. In my responses to Asma and Kaona I agreed that CVSS still has value as a shared technical language. The most useful challenge came from Kaona, with Janet agreeing: SSVC is not automatically more consistent, because a decision tree is only as reliable as its inputs. My summary therefore moved from "change the framework" to "govern the inputs", adding an asset inventory linked to business services, documented rationale, second review for critical systems and exploit-likelihood data such as EPSS.
 
 ## 1. Initial post (Unit 7)
 
 <div class="artefact" markdown="1">
-<p class="artefact-meta">Unit 7 initial post</p>
+<p class="artefact-meta">Posted Saturday 3 October 2026</p>
 
 Wunder et al. (2024) criticizes several characteristics of the Common Vulnerability Scoring System (CVSS), particularly its **subjectivity, complexity and inconsistency between assessors**. Although CVSS provides a standardized framework for describing vulnerability severity, the authors demonstrate that different users can interpret and apply its metrics differently. This is problematic because apparently precise numerical scores can give organizations a false sense of objectivity when the underlying metric selection may depend on the individual assessor (Wunder et al., 2024). The authors’ findings therefore question whether CVSS scores are sufficiently reliable for making vulnerability-prioritization decisions.
 
@@ -88,8 +88,40 @@ Wunder, J., Kurtz, A., Eichenmüller, C., Gassmann, F. and Benenson, Z. (2024) �
 
 ## 3. Peer responses I received
 
-<div class="pending" markdown="1">
-**To add:** the responses from Kaona and Janet to my initial post. My summary post discusses their points directly, so including them (as text or a legible forum screenshot) shows the feedback that changed my position.
+<div class="artefact received" markdown="1">
+<p class="artefact-meta">From Kaona Hoxha, Sunday 4 October 2026, in reply to my initial post</p>
+
+Your distinction between vulnerability severity and organisational priority is important, particularly because CVSS v4.0 now includes Threat and Environmental metric groups intended to provide greater context (FIRST, 2024). However, these additions do not fully resolve the inconsistency identified by Wunder et al. (2024). If organisations interpret contextual metrics differently or fail to update them when exploit activity changes, the resulting score may still create an unjustified impression of precision.
+
+I agree that SSVC is more suitable as the primary prioritisation method, although its effectiveness also depends on governance. A decision tree cannot produce reliable actions if asset criticality, exploitation status or mission impact are inaccurate. Organisations should therefore maintain an asset inventory linked to business services, record the reasoning behind each SSVC decision and require a second reviewer for vulnerabilities affecting critical systems. Periodic reassessment is also necessary because a vulnerability initially assigned "Track" may require "Act Immediately" once exploitation evidence emerges.
+
+A practical approach would be to use CVSS as a structured description of technical characteristics and SSVC as the decision mechanism. Exploitation intelligence, affected-asset exposure and compensating controls should then be used to validate the selected response. This would preserve CVSS's interoperability while reducing reliance on a single numerical score.
+
+The principal improvement is therefore not simply changing frameworks, but making prioritisation evidence-based, reviewable and responsive to changing threat conditions. Without those controls, SSVC could reproduce the same inconsistency it is intended to address.
+
+**References**
+
+FIRST (2024) *Common Vulnerability Scoring System version 4.0: Specification Document*. Available at: https://www.first.org/cvss/v4.0/specification-document (Accessed: 4 October 2026).
+
+Wunder, J., Kurtz, A., Eichenmüller, C., Gassmann, F. and Benenson, Z. (2024) 'Shedding light on CVSS scoring inconsistencies: a user-centric study on evaluating widespread security vulnerabilities', *2024 IEEE Symposium on Security and Privacy*, pp. 1102–1121.
+</div>
+
+<div class="artefact received" markdown="1">
+<p class="artefact-meta">From Janet Karani, Wednesday 7 October 2026, in reply to Kaona's response on my thread</p>
+
+I agree with both of you Mohammed and Kaona that CVSS has significant limitations when used as the primary basis for vulnerability prioritisation. Kaona correctly highlights that subjectivity in assessing CVSS metrics can lead to inconsistent scores. As Wunder et al. (2024) demonstrate, different assessors may interpret metrics differently, reducing the reliability of what appears to be an objective numerical score. I also agree that vulnerability severity and organisational priority are distinct concepts. A high CVSS score does not automatically translate into high organisational risk, particularly when compensating controls or limited exposure reduce the likelihood of exploitation.
+
+Kaona's argument provides an important extension to this argument by recognising that SSVC is not immune to inconsistency. While SSVC incorporates organisational context and supports decision-making more effectively than CVSS, its outcomes are only as reliable as the quality of the information used. If asset criticality, threat intelligence, or business impact assessments are inaccurate, prioritisation decisions may still be flawed. I particularly agree with the recommendation for governance measures such as maintaining accurate asset inventories, documenting decisions, and conducting periodic reviews.
+
+Overall, I believe the strongest approach is to use CVSS and SSVC together. CVSS provides a widely recognised method for communicating technical severity, while SSVC enables organisations to prioritise vulnerabilities according to operational risk and business context. This combined approach addresses the weaknesses of relying solely on a numerical score while preserving the benefits of standardisation and interoperability. Consequently, effective vulnerability management depends not only on the framework chosen but also on the quality of organisational processes that support risk-based decision-making.
+
+**References**
+
+FIRST (2024) *Common Vulnerability Scoring System v4.0 Specification Document*. Forum of Incident Response and Security Teams. Available at: https://www.first.org/cvss/specification-document (Accessed: 5 October 2026).
+
+Spring, J.M., Hatleback, E., Householder, A.D. and Manion, A. (2019) *Stakeholder-Specific Vulnerability Categorization (SSVC)*. Carnegie Mellon University, Software Engineering Institute.
+
+Wunder, J., Riek, M., Fuchs, A. and Wirtz, G. (2024) *Evaluating the Reliability of CVSS Assessments*.
 </div>
 
 ## 4. Summary post (Unit 9)

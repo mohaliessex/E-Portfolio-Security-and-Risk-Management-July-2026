@@ -102,9 +102,6 @@ National Institute of Standards and Technology (NIST) (2024) *The NIST Cybersecu
 </div>
 
 
-<div class="pending" markdown="1">
-**To add, if completed:** the GDPR case study from the Irish Data Protection Commission (which aspect of GDPR it addresses, how it was resolved, and the steps I would take as an Information Security Manager).
-</div>
 
 ## Learning note
 

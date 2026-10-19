@@ -26,9 +26,6 @@ I applied this unit's material in the disaster recovery section of my individual
 
 [Read the full DR section in the individual project]({{ '/projects/individual-project/' | relative_url }})
 
-<div class="pending" markdown="1">
-**To add, if available:** my preparation for the Unit 10 seminar, *DR Solutions Design and Review*.
-</div>
 
 ## Seminar: DR solutions design and review
 

@@ -45,6 +45,6 @@ The Unit 6 report had weaknesses that only became visible in Unit 11.
 
 The status report was sound for its question, and its central recommendation of small, reversible commitments survived a change of client strategy that it had advised against. That is a fair test of risk advice. Its main limitation was that qualitative work cannot be extended into quantitative work without being rebuilt, so in future I would record ranges and their basis from the outset, even in a qualitative report, so that a later quantitative stage can reuse them.
 
-<div class="pending" markdown="1">
-**To add:** the tutor's feedback on the Unit 6 report, and a sentence on whether that feedback shaped the Unit 11 submission.
-</div>
+## What the tutor's feedback adds
+
+The tutor's feedback on the two documents confirms this evaluation and sharpens it. Three weaknesses of the Unit 6 report (an undefined rating scale, mitigations without residual risk levels, and little on cost) were addressed in Unit 11 through explicit probability ranges, inherent and residual estimates for every control, and cost trade-offs such as the doubled hosting cost of a second region. Two were not. Unit 6 lacked a side-by-side comparison of options and a statement of acceptable residual risk, and Unit 11 still never states what level of residual risk the owner should accept. The Unit 11 feedback also exposed a new weakness: the move from survey statistics to company-specific probabilities was labelled but not justified. Across both projects, the improvement was in making uncertainty visible; the remaining gap is turning that uncertainty into a decision threshold the client can act on.

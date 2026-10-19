@@ -27,9 +27,6 @@ I responded to two classmates, focusing on preventative measures as the discussi
 
 [Read both responses in full in Discussion 1]({{ '/discussions/discussion-1/' | relative_url }}#2-my-peer-responses-unit-2)
 
-<div class="pending" markdown="1">
-**To add, if available:** my preparation for the Unit 2 seminar, *The Role of AI in Risk Management*, on Kalogiannidis *et al.* (2024).
-</div>
 
 ## Seminar: The role of AI in risk management
 

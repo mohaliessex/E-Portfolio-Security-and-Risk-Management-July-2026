@@ -12,9 +12,13 @@ References follow the University of Essex Online Harvard style.
 
 Adhillah, M.N. *et al.* (2025) 'Systematic literature review the development of enterprise risk management', *Jurnal Manajemen Bisnis, Akuntansi dan Keuangan*, 4(1), pp. 81–100.
 
+Aggarwal, C.C. (2016) *Recommender systems: the textbook*. Cham: Springer.
+
 AIRMIC (2010) *A structured approach to enterprise risk management (ERM) and the requirements of ISO 31000*. London: AIRMIC.
 
 Alhazmi, O.H. and Malaiya, Y.K. (2013) 'Evaluating disaster recovery plans using the cloud', *2013 Proceedings Annual Reliability and Maintainability Symposium (RAMS)*. Orlando, FL: IEEE, pp. 1–6.
+
+Amundrud, Ø., Aven, T. and Flage, R. (2017) 'How the definition of security risk can be made compatible with safety definitions', *Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability*, 231(3), pp. 286–294.
 
 Andrade, E., Nogueira, B., Matos, R., Callou, G. and Maciel, P. (2017) 'Availability modeling and analysis of a disaster-recovery-as-a-service solution', *Computing*, 99(10), pp. 929–954.
 
@@ -26,6 +30,8 @@ Barafort, B., Mesquida, A.-L. and Mas, A. (2019) 'ISO 31000-based integrated ris
 
 Carter, C. (2025) 'AI surveillance: reclaiming privacy through informational control', *European Labour Law Journal*, 16(2), pp. 245–258. Available at: https://doi.org/10.1177/20319525241306327
 
+Carter, K. (2017) 'Francois Raynaud on DevSecOps', *IEEE Software*, 34(5), pp. 93–96.
+
 CISA (2022) *Stakeholder-specific vulnerability categorization guide*. Washington, DC: Cybersecurity and Infrastructure Security Agency. Available at: https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc (Accessed: 16 October 2026).
 
 Cox, L.A. (2008) 'What's wrong with risk matrices?', *Risk Analysis*, 28(2), pp. 497–512. Available at: https://doi.org/10.1111/j.1539-6924.2008.01030.x
@@ -33,6 +39,8 @@ Cox, L.A. (2008) 'What's wrong with risk matrices?', *Risk Analysis*, 28(2), pp.
 Eckstein, J. and Riedmueller, S.T. (2002) 'YASAI: yet another add-in for teaching elementary Monte Carlo simulation in Excel', *INFORMS Transactions on Education*, 2(2), pp. 12–26.
 
 Fahimnia, B., Pournader, M., Siemsen, E., Bendoly, E. and Wang, C. (2019) 'Behavioral operations and supply chain management: a review and literature mapping', *Decision Sciences*, 50(6), pp. 1127–1183.
+
+Fraser, J. and Simkins, B. (2016) 'The challenges of and solutions for implementing enterprise risk management', *Business Horizons*, 59(6), pp. 689–698.
 
 Hancock, J., Hui, R., Singh, J. and Mazumder, A. (2024) 'Trouble at sea: data and digital technology challenges for maritime human rights concerns', *Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT '24)*. New York: ACM, pp. 988–1001. Available at: https://doi.org/10.1145/3630106.3658950
 
@@ -50,7 +58,7 @@ Kirvan, P. (2021) *Top 15 IT security frameworks and standards explained*. TechT
 
 Kumar, A. (2024) *Cloud vendor lock-in: identify, strategies and mitigate*.
 
-Marks, L. *et al.* (2019) *The optimal risk management framework: identifying the requirements and selecting the framework*.
+Marks, L. (2019) 'The optimal risk management framework: identifying the requirements and selecting the framework', *ISACA Journal*, 1. Available at: https://www.isaca.org/resources/isaca-journal/issues/2019/volume-1/the-optimal-risk-management-framework-identifying-the-requirements-and-selecting-the-framework (Accessed: 16 October 2026).
 
 Mazumdar, A. (2026a) 'Seminar 1: An introduction to security and risk management' [PowerPoint slides]. *Security and Risk Management*, University of Essex Online, 31 July 2026. Unpublished.
 
@@ -87,6 +95,12 @@ Spring, J., Hatleback, E., Householder, A.D., Manion, A. and Shick, D. (2019) *P
 Stoneburner, G., Goguen, A. and Feringa, A. (2002) *Risk management guide for information technology systems*. NIST SP 800-30. Gaithersburg, MD: National Institute of Standards and Technology.
 
 Tuckman, B.W. (1965) 'Developmental sequence in small groups', *Psychological Bulletin*, 63(6), pp. 384–399. Available at: https://doi.org/10.1037/h0022100
+
+Varshney, K.R. and Alemzadeh, H. (2017) 'On the safety of machine learning: cyber-physical systems, decision sciences, and data products', *Big Data*, 5(3), pp. 246–255.
+
+Vassilev, A., Oprea, A., Fordyce, A. and Anderson, H. (2024) *Adversarial machine learning: a taxonomy and terminology of attacks and mitigations*. NIST AI 100-2 E2023. Gaithersburg, MD: National Institute of Standards and Technology. Available at: https://doi.org/10.6028/NIST.AI.100-2e2023
+
+Wing, J.M. (2020) 'Trustworthy AI', *arXiv*, 2002.06276. Available at: https://arxiv.org/abs/2002.06276
 
 Wunder, J., Kurtz, A., Eichenmüller, C., Gassmann, F. and Benenson, Z. (2024) 'Shedding light on CVSS scoring inconsistencies: a user-centric study on evaluating widespread security vulnerabilities', *2024 IEEE Symposium on Security and Privacy*. San Francisco, CA: IEEE, pp. 1102–1121. Available at: https://doi.org/10.1109/SP54263.2024.00058
 

@@ -55,11 +55,11 @@ The matrix shows where each outcome is evidenced. Darker cells mark the unit's m
     <tr><th scope="row"><a href="{{ '/units/unit-09/' | relative_url }}">9. Discussion 2 summary post</a></th><td class="c2">main</td><td class="c2">main</td><td class="c2">main</td><td></td></tr>
     <tr><th scope="row"><a href="{{ '/units/unit-10/' | relative_url }}">10. DR solution design</a></th><td></td><td></td><td class="c2">main</td><td class="c1">support</td></tr>
     <tr><th scope="row"><a href="{{ '/units/unit-11/' | relative_url }}">11. Individual executive summary</a></th><td class="c2">main</td><td class="c2">main</td><td class="c2">main</td><td class="c2">main</td></tr>
-    <tr><th scope="row"><a href="{{ '/units/unit-12/' | relative_url }}">12. Future trends debate</a></th><td class="gap">pending</td><td class="gap">pending</td><td></td><td></td></tr>
+    <tr><th scope="row"><a href="{{ '/units/unit-12/' | relative_url }}">12. Future trends wiki and debate</a></th><td class="c2">main</td><td class="c2">main</td><td class="c1">support</td><td class="c1">support</td></tr>
   </tbody>
 </table>
 </div>
-<p class="matrix-key"><span style="background:var(--cell-2)"></span>Main evidence <span style="background:var(--cell-1)"></span>Supporting evidence <span style="background:var(--clay-wash);outline:1px dashed var(--clay)"></span>Artefact still to be added</p>
+<p class="matrix-key"><span style="background:var(--cell-2)"></span>Main evidence <span style="background:var(--cell-1)"></span>Supporting evidence</p>
 
 ## The module at a glance
 

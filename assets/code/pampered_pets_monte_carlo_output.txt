@@ -1,0 +1,43 @@
+Individual risks (inherent): mean and 90% interval
+  Q1 Transit temperature or humidity excursion: mean 25.8% (90% interval 15%-37%)
+  Q2 Warehouse stock-rotation or mis-pick error: mean 15.8% (90% interval 9%-24%)
+  Q3 Counterfeit or adulterated product: mean 6.8% (90% interval 3%-11%)
+  Q4 Undetected supplier recipe change: mean 9.2% (90% interval 5%-15%)
+  Q5 Deliberate tampering: mean 1.2% (90% interval 1%-2%)
+  Q6 Product or batch record error spread digitally: mean 13.0% (90% interval 7%-19%)
+  S1 Logistics or customs delay over two weeks: mean 35.9% (90% interval 25%-47%)
+  S2 Cyber attack disrupting operations: mean 13.0% (90% interval 7%-19%)
+  S3 Personal data breach, including royal data: mean 11.0% (90% interval 6%-17%)
+  S4 Cloud or platform outage (before DR): mean 15.9% (90% interval 8%-24%)
+  S5 Warehouse automation failure over 48 hours: mean 13.0% (90% interval 7%-19%)
+  S6 Import or regulatory stoppage: mean 13.0% (90% interval 7%-19%)
+  S7 Third-party software compromise: mean 8.8% (90% interval 5%-14%)
+  S8 Key supplier failure: mean 8.3% (90% interval 5%-12%)
+  S9 Fulfilment overload for four staff: mean 21.7% (90% interval 13%-31%)
+
+=== Inherent (before Section 4 controls) ===
+P(at least one quality event): mean 54.6% (90% interval 45%-63%)
+P(two or more quality events): 15.0%
+  Bernoulli check, rho = 0.0: >=1 54.6%, >=2 15.0%
+  Correlated,      rho = 0.3: >=1 46.2%, >=2 17.9%
+P(at least one supply event): mean 79.3% (90% interval 73%-85%)
+P(two or more supply events): 42.3%
+  Bernoulli check, rho = 0.0: >=1 79.4%, >=2 42.5%
+  Correlated,      rho = 0.3: >=1 64.6%, >=2 37.3%
+
+=== Residual (after Section 4 controls) ===
+P(at least one quality event): mean 25.8% (90% interval 21%-31%)
+P(two or more quality events): 2.9%
+  Bernoulli check, rho = 0.0: >=1 25.8%, >=2 2.9%
+  Correlated,      rho = 0.3: >=1 22.4%, >=2 5.4%
+P(at least one supply event): mean 52.2% (90% interval 46%-58%)
+P(two or more supply events): 13.8%
+  Bernoulli check, rho = 0.0: >=1 52.4%, >=2 13.8%
+  Correlated,      rho = 0.3: >=1 42.5%, >=2 16.2%
+
+=== Sensitivity of residual results to control effectiveness ===
+  effectiveness 100%: quality >=1 25.8%, supply >=1 52.2%
+  effectiveness 75%: quality >=1 34.1%, supply >=1 60.9%
+  effectiveness 50%: quality >=1 41.6%, supply >=1 68.2%
+  effectiveness 25%: quality >=1 48.4%, supply >=1 74.3%
+  effectiveness 0%: quality >=1 54.6%, supply >=1 79.3%

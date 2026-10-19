@@ -14,14 +14,14 @@ Pampered Pets is a four-person pet food business. It relies on local suppliers, 
 
 ## The team and how we divided the work
 
-The team was Kaona Hoxha, Noora Aldsani, Janet Karani and me. Roles were agreed in a team contract on 24 August 2026, each of the five report sections had a named owner, and we set an internal draft deadline of 30 August, ahead of the official one.
+The team was Kaona Hoxha (project lead), Noora Aldsani, Janet Karani and me. Roles were agreed in a [team contract]({{ '/development/team-meetings/' | relative_url }}#team-contract) signed on 24 August 2026, each of the five report sections had a named owner, and we set an internal draft deadline of 30 August, ahead of the official one.
 
 | Section | Owner |
 |---|---|
-| 1. Decision frame and methodology | Agreed jointly; ISO 31000 framing proposed by Kaona |
+| 1. Decision frame and methodology | Agreed jointly; ISO 31000 framing proposed by Kaona as project lead |
 | 2. Current-state risk assessment | **Me** |
 | 3. Digitalisation as risk migration | Kaona, who also compiled, edited and controlled the word count |
-| 4. The three claims as an interacting scenario | Janet |
+| 4. The three claims as an interacting scenario | Janet, who also contributed to the final recommendation |
 | 5. Recommendation: preserve reversibility | Noora |
 
 ## My individual contribution
@@ -36,9 +36,11 @@ The team was Kaona Hoxha, Noora Aldsani, Janet Karani and me. Roles were agreed 
 
 **What I would do differently.** My first draft used practitioner terminology that had to be simplified at review, and I raised my reservations about how firmly the recommendation was framed at the review stage rather than at planning. Both cost group time. The [reflective piece]({{ '/reflection/' | relative_url }}) analyses this further.
 
-<div class="pending" markdown="1">
-**To add:** screenshots of the team contract and of the group chat or meeting where we agreed the methodology and my section. These evidence the Collaboration criterion directly.
-</div>
+The contract assigned me "current threats, risk evaluation and mitigations", which is the scope of Section 2 as submitted.
+
+## Tutor feedback in brief
+
+The tutor judged criticality the report's strongest area, and singled out the justification for combining ISO 31000, STRIDE and qualitative scenarios, including the recognition of what STRIDE cannot assess, which was the scoping I contributed. The main weaknesses were an undefined likelihood and impact scale, no formal risk register, and mitigations without owners, timescales or residual risk levels, which applies to my section as much as any other. The full feedback and my response are on the [feedback page]({{ '/development/feedback/' | relative_url }}#team-project-risk-identification-report-unit-6).
 
 ## The submitted report
 

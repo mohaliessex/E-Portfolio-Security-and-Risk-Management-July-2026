@@ -24,9 +24,6 @@ I argued that Wunder *et al.* (2024) rightly criticise CVSS for subjectivity, co
 
 [Read the full initial post in Discussion 2]({{ '/discussions/discussion-2/' | relative_url }}#1-initial-post-unit-7)
 
-<div class="pending" markdown="1">
-**To add, if it is my own work:** the *Building a Quantitative Risk Model* exercise (a FAIR-based Monte Carlo model of ransomware against a hospital's electronic health records), together with my results from the Risk Modelling Activities.
-</div>
 
 ## Learning note
 

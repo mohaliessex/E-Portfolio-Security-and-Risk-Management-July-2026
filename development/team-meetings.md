@@ -16,10 +16,39 @@ Group 3 worked online across several time zones, alongside members' full-time jo
 |---|---|---|
 | Unit 1 | Teams assigned at the assessment briefing | Group 3 formed: Kaona Hoxha, Noora Aldsani, Janet Karani and me |
 | First meeting | Agreed the analytical framework before drafting | ISO 31000 as the decision framework; one likelihood-impact scale for current and future state; STRIDE limited to identities, systems and data flows; current-state and future-state structure |
-| 24 August 2026 | Team contract agreed and sent to the tutor | Named owner for each section; disagreements to be resolved by evidence-based discussion |
+| 24 August 2026 | Team contract agreed, signed by all four members and sent to the tutor ([see below](#team-contract)) | Named owner for each section; disagreements to be resolved by evidence-based discussion |
 | 30 August 2026 | Internal draft deadline | All sections delivered on time; combined draft substantially over the 1,000-word limit |
 | Review stage | Consistency, referencing and word-count review | Repetition removed; my Section 2 simplified for a non-specialist reader; recommendation wording agreed |
 | End of Unit 6 | Report compiled and submitted by Kaona | Peer evaluation forms completed individually |
+
+## Team contract
+
+Agreed and signed by all four members on 24 August 2026 and sent to the module tutor. It is reproduced here as text. The signed original is not published because it contains signatures.
+
+<div class="artefact" markdown="1">
+<p class="artefact-meta">Group 3, Security and Risk Management. Team contract, 24 August 2026</p>
+
+**Goals.** Our goal is to produce a concise, critically evaluated and well-referenced Risk Identification Report that meets the assignment requirements and remains within the 1,000-word limit. We aim to complete the work before the official deadline, apply a consistent risk-assessment methodology and develop our research, critical analysis, communication and teamwork skills.
+
+**Expectations.** Each member is expected to contribute a substantive section, participate in group discussions, respond to messages within 24 hours where possible and complete their work by the agreed internal deadline. Contributions should be academically written, supported by reliable sources, correctly referenced in Harvard style and ready for integration into the final report.
+
+**Policies and procedures.** The team will agree on the methodology, proposed digital transformation and structure before finalising the report. Each member will research and draft their allocated section. Drafts should be shared by 30 August 2026. The complete report will then be reviewed for consistency, repetition, referencing, critical analysis and word count. Important decisions and contributions will be recorded.
+
+**Roles.**
+
+| Member | Role |
+|---|---|
+| Kaona Hoxha | Project lead; proposed digital transformation risk assessment; identification and evaluation of digital, operational and supply-chain risks; proposed mitigations; compilation, editing, referencing and submission of the final report |
+| Noora Aldsani | Summary of recommendations for the business |
+| Mohmmed Ahmed Hamza Ali (me) | Current threats, risk evaluation and mitigations |
+| Janet Karani | Evaluation of the three percentage claims and final recommendation |
+
+**Consequences.** If a member cannot complete their contribution on time, they should notify the group immediately so that responsibilities can be reorganised. Missed deadlines or insufficient work will first be addressed through direct group discussion. Continued non-participation will be documented, reflected accurately in the individual peer assessment and, where necessary, raised with the module tutor. Disagreements will be resolved through evidence-based discussion and majority agreement.
+
+**Signed:** Kaona Hoxha, Noora Aldsani, Mohmmed Ahmed Hamza Ali and Janet Karani, 24 August 2026.
+</div>
+
+**How the contract worked in practice.** The roles and the 30 August draft deadline were kept exactly, and no member needed the non-performance procedure. The clause on agreeing the methodology before finalising was the one that mattered most. The disagreement-resolution clause was used once, when the team settled how firmly to recommend digitalisation. Looking back, the contract recorded *who* would write each section but not a word budget per section, which is why the combined draft ran substantially over the limit. I would add that to the next contract.
 
 ## Decisions that mattered
 
@@ -72,6 +101,3 @@ Writing for a non-specialist academic reader. My first draft of the current-stat
 - Volunteer for integration work, not only for a section.
 - Set an internal deadline ahead of the official one, which protected us this time.
 
-<div class="pending" markdown="1">
-**To add:** screenshots of the team contract, the meeting or chat where the framework was agreed, and any meeting notes. Legible screenshots do not count towards the word limit.
-</div>

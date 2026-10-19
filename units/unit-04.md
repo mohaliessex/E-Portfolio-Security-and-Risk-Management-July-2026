@@ -31,9 +31,6 @@ The main application of this unit's learning was the threat modelling approach I
 
 The full analysis is in Section 3 of the [team report]({{ '/projects/team-project/' | relative_url }}).
 
-<div class="pending" markdown="1">
-**To add, if available:** my own seminar preparation for *Risk Identification and Modelling*, or any data flow diagram or threat model I drew for the project.
-</div>
 
 ## Seminar: Risk identification and modelling
 

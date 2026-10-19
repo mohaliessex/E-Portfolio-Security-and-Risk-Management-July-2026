@@ -12,6 +12,8 @@ next: { title: "Unit 11 vs Unit 6 evaluation", url: "/projects/evaluation/" }
 
 By Unit 11 the case had moved on. Rather than following the phased approach our team had recommended, the owner introduced an international supply chain, automated warehouses and a 24/7 online shop in one step, and attracted royal customers. The individual brief asked for a quantitative assessment of the probability of quality-threatening and supply-disrupting events, prioritised recommendations including data protection obligations, and a business continuity and disaster recovery solution meeting recovery time and recovery point objectives of under one minute.
 
+The tutor's feedback and my response are on the [feedback page]({{ '/development/feedback/' | relative_url }}#individual-project-executive-summary-unit-11).
+
 ## Key decisions I made
 
 **Method.** I chose a Monte Carlo simulation with calibrated three-point (PERT) estimates over a qualitative matrix, single-point annualised loss expectancy or FAIR. The business had no loss history, so ranges were the honest way to express both the estimate and its uncertainty (Hubbard and Seiersen, 2023), and ordinal matrices cannot be combined or reliably ranked (Cox, 2008).
@@ -22,9 +24,25 @@ By Unit 11 the case had moved on. Rather than following the phased approach our 
 
 **Proportionate DR.** A one-minute RTO and RPO requires an active-active multi-region design that a four-person business cannot operate, so I recommended managed services through a contracted provider, with lock-in controlled by open standards, open-format exports and a tested exit plan.
 
-<div class="pending" markdown="1">
-**To add:** the simulation code or spreadsheet that produced Tables 1, 2, A1 and A2, and the tutor's feedback and grade once released.
-</div>
+## Reproducibility code (added after feedback)
+
+The tutor's feedback asked for simulation code so the results, especially the correlated scenario, could be audited, and for sensitivity testing of the assumed control reductions. I wrote the [Python simulation script]({{ '/assets/code/pampered_pets_monte_carlo.py' | relative_url }}) after receiving feedback; its [full output]({{ '/assets/code/pampered_pets_monte_carlo_output.txt' | relative_url }}) is also published. It was not part of the marked submission.
+
+| Measure | Reported in submission | Reproduced by script |
+|---|---|---|
+| P(at least one quality event) | 54.6% | 54.6% |
+| P(two or more quality events) | 15.0% | 15.0% |
+| P(at least one supply event) | 79.3% | 79.3% |
+| Correlated (ρ = 0.3), at least one quality event | 46.6% | 46.2% |
+| Correlated (ρ = 0.3), at least one supply event | 64.3% | 64.6% |
+| Residual, at least one quality event | 25.8% | 25.8% |
+| Residual, at least one supply event | 52.2% | 52.2% |
+
+Small differences in the correlated rows are sampling noise from 100,000 iterations.
+
+**Same procedure for both scenarios.** The script runs the independent case through the same Bernoulli and copula procedure as the correlated case, with ρ = 0. It matches the analytic baseline (54.6% and 79.4%), so the difference between the two scenarios is attributable to correlation alone.
+
+**Sensitivity to control effectiveness.** If controls deliver only half their assumed reduction, the probability of at least one quality event rises from 26% to 42%, and of a supply event from 52% to 68%. The ranking of controls is unchanged, but the headline claim that controls "halve" quality risk depends heavily on them working as assumed.
 
 ## The submitted executive summary
 
