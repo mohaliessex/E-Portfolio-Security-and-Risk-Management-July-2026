@@ -1,13 +1,3 @@
----
-layout: default
-title: Team meetings and process
-kicker: Group 3, Security and Risk Management, July 2026.
-permalink: /development/team-meetings/
-lo: [3]
-prev: { title: "Summary of learning outcomes", url: "/development/learning-outcomes/" }
-next: { title: "Peer and tutor feedback", url: "/development/feedback/" }
----
-
 Group 3 worked online across several time zones, alongside members' full-time jobs. This page records how the team organised itself, the decisions that shaped the report and what I learned from the process.
 
 ## Team timeline
@@ -16,14 +6,14 @@ Group 3 worked online across several time zones, alongside members' full-time jo
 |---|---|---|
 | Unit 1 | Teams assigned at the assessment briefing | Group 3 formed: Kaona Hoxha, Noora Aldsani, Janet Karani and me |
 | First meeting | Agreed the analytical framework before drafting | ISO 31000 as the decision framework; one likelihood-impact scale for current and future state; STRIDE limited to identities, systems and data flows; current-state and future-state structure |
-| 24 August 2026 | Team contract agreed, signed by all four members and sent to the tutor ([see below](#team-contract)) | Named owner for each section; disagreements to be resolved by evidence-based discussion |
+| 24 August 2026 | Team contract agreed, signed by all four members and sent to the tutor.
 | 30 August 2026 | Internal draft deadline | All sections delivered on time; combined draft substantially over the 1,000-word limit |
 | Review stage | Consistency, referencing and word-count review | Repetition removed; my Section 2 simplified for a non-specialist reader; recommendation wording agreed |
 | End of Unit 6 | Report compiled and submitted by Kaona | Peer evaluation forms completed individually |
 
 ## Team contract
 
-Agreed and signed by all four members on 24 August 2026 and sent to the module tutor. It is reproduced here as text. The signed original is not published because it contains signatures.
+Agreed and signed by all four members on 24 August 2026 and sent to the module tutor. It is reproduced here as text.
 
 <div class="artefact" markdown="1">
 <p class="artefact-meta">Group 3, Security and Risk Management. Team contract, 24 August 2026</p>
