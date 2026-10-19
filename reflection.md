@@ -8,7 +8,7 @@ prev: { title: "Skills matrix and PDP", url: "/development/skills-pdp/" }
 next: { title: "References", url: "/references/" }
 ---
 
-## What?
+[## What?
 
 This module asked me to treat risk as a process rather than a score. Across twelve units I moved from qualitative identification, in two collaborative discussions and the Group 3 risk identification report for Pampered Pets, to quantitative modelling, in the Monte Carlo assessment and disaster recovery design of my Unit 11 executive summary. In the team project I owned the current-state risk assessment and argued for limiting STRIDE to identities, systems and data flows. We recommended phased, reversible digitalisation. By Unit 11 the owner had done the opposite, expanding internationally in one step, and I had to quantify the consequences.
 
@@ -53,3 +53,4 @@ Tuckman, B.W. (1965) 'Developmental sequence in small groups', *Psychological Bu
 Wunder, J., Kurtz, A., Eichenmüller, C., Gassmann, F. and Benenson, Z. (2024) 'Shedding light on CVSS scoring inconsistencies: a user-centric study on evaluating widespread security vulnerabilities', *2024 IEEE Symposium on Security and Privacy*. San Francisco, CA: IEEE, pp. 1102–1121. Available at: https://doi.org/10.1109/SP54263.2024.00058
 
 </div>
+](https://mohaliessex.github.io/E-Portfolio-Security-and-Risk-Management-July-2026/)
