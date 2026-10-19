@@ -1,0 +1,39 @@
+- section: Start here
+  items:
+    - { title: "Overview", url: "/" }
+    - { title: "Learning outcomes map", url: "/#learning-outcomes" }
+    - { title: "Artefact index", url: "/artefacts/" }
+- section: Units
+  numbered: true
+  items:
+    - { title: "Introduction to SRM", url: "/units/unit-01/", n: 1 }
+    - { title: "Users and the RMP", url: "/units/unit-02/", n: 2 }
+    - { title: "Threat modelling", url: "/units/unit-03/", n: 3 }
+    - { title: "Applying threat models", url: "/units/unit-04/", n: 4 }
+    - { title: "Security standards", url: "/units/unit-05/", n: 5 }
+    - { title: "Standards in practice", url: "/units/unit-06/", n: 6 }
+    - { title: "Quantitative modelling", url: "/units/unit-07/", n: 7 }
+    - { title: "Implementing QRM", url: "/units/unit-08/", n: 8 }
+    - { title: "BC and DR", url: "/units/unit-09/", n: 9 }
+    - { title: "DR implementation", url: "/units/unit-10/", n: 10 }
+    - { title: "Future trends", url: "/units/unit-11/", n: 11 }
+    - { title: "The great debate", url: "/units/unit-12/", n: 12 }
+- section: Discussions
+  items:
+    - { title: "Discussion 1: digitalisation risk", url: "/discussions/discussion-1/" }
+    - { title: "Discussion 2: CVSS and SSVC", url: "/discussions/discussion-2/" }
+- section: Projects
+  items:
+    - { title: "Team project (Unit 6)", url: "/projects/team-project/" }
+    - { title: "Individual project (Unit 11)", url: "/projects/individual-project/" }
+    - { title: "Unit 11 vs Unit 6 evaluation", url: "/projects/evaluation/" }
+- section: Development
+  items:
+    - { title: "Summary of learning outcomes", url: "/development/learning-outcomes/" }
+    - { title: "Team meetings and process", url: "/development/team-meetings/" }
+    - { title: "Peer and tutor feedback", url: "/development/feedback/" }
+    - { title: "Skills matrix and PDP", url: "/development/skills-pdp/" }
+- section: Reflection
+  items:
+    - { title: "Reflective piece", url: "/reflection/" }
+    - { title: "References", url: "/references/" }

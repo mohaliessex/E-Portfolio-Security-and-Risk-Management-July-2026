@@ -1,0 +1,12 @@
+title: "Security and Risk Management e-Portfolio"
+author: "Mohmmed Ahmed Hamza Ali Mohmmed Ahmed"
+programme: "MSc Cyber Security, University of Essex Online"
+module: "Security and Risk Management (July 2026)"
+description: "Learning and development e-portfolio for the Security and Risk Management module."
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
+  - "*.docx~"
